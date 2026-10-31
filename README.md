@@ -2,7 +2,7 @@
 
 Windows open like an eye: a ragged, ink-rimmed slit with a red glow widens to uncover them, and shuts when they close.
 
-![desktop](screenshots/desktop.png)
+![opening](screenshots/opening.png)
 
 Xenoglyph is an alien-white, cybertribal look for KDE Plasma 6: pearl and bone surfaces, black tribal ink that sweeps into fins, horns and claws, a red ichor seam through everything, Daedric script, and motion everywhere.
 
@@ -12,7 +12,11 @@ Xenoglyph is an alien-white, cybertribal look for KDE Plasma 6: pearl and bone s
 - Close: the same eye shuts over the window.
 - One small GLSL shader on the GPU. Durations are configurable (`OpenDuration`, `CloseDuration` in ms) and follow Plasma's animation speed.
 
+![unfurl](screenshots/unfurl.gif)
 
+![shutting](screenshots/shutting.png)
+
+![desktop](screenshots/desktop.png)
 
 ## Requirements
 
